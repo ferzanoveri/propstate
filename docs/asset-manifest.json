@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/propstate-reactjs/static/css/main.abd64e84.css",
-    "main.js": "/propstate-reactjs/static/js/main.086384df.js",
-    "static/media/FCB.jpg": "/propstate-reactjs/static/media/FCB.04472f902df2b1436093.jpg",
-    "static/media/Leomessi.jpeg": "/propstate-reactjs/static/media/Leomessi.07ed3b7c35bb7626f0bb.jpeg",
-    "index.html": "/propstate-reactjs/index.html",
-    "main.abd64e84.css.map": "/propstate-reactjs/static/css/main.abd64e84.css.map",
-    "main.086384df.js.map": "/propstate-reactjs/static/js/main.086384df.js.map"
+    "main.css": "/propstate/static/css/main.abd64e84.css",
+    "main.js": "/propstate/static/js/main.e60a458a.js",
+    "static/media/FCB.jpg": "/propstate/static/media/FCB.04472f902df2b1436093.jpg",
+    "static/media/Leomessi.jpeg": "/propstate/static/media/Leomessi.07ed3b7c35bb7626f0bb.jpeg",
+    "index.html": "/propstate/index.html",
+    "main.abd64e84.css.map": "/propstate/static/css/main.abd64e84.css.map",
+    "main.e60a458a.js.map": "/propstate/static/js/main.e60a458a.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.086384df.js"
+    "static/js/main.e60a458a.js"
   ]
 }
